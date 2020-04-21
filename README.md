@@ -13,9 +13,9 @@ The app requires a user to run the code in the .sql file in MySQL and update the
 
 ## <h2>How to use the  bAmazon App</h2>
 After you have successfully set up the mySQL server, get dependencies from the node package manager in terminal:
-* `npm i mysql'
-* 'npm i inquirer'
-* 'npm i cli-table'
+* `npm i mysql`
+* `npm i inquirer`
+* `npm i cli-table`
 
 
 *Examples:*
