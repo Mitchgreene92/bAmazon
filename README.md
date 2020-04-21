@@ -18,9 +18,7 @@ After you have successfully set up the mySQL server, get dependencies from the n
 * `npm i cli-table`
 
 
-*Examples:*
-
-**Viewing products on the database'**
+**Viewing products on the database**
 
 command: `node bAmazonCust.js`
 
